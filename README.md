@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I am Mohd Kaif
+ - I am a final year student of Bachelor's of Technology.
+ - Noida Institute of Engineering and Technology, Greater Noida.
+ - Seeking Software engineer or Web developer role.
 
-<!--
-**kaifkhan1989/kaifkhan1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My skills are ...
+  -Java, Python, HTML5, CSS3, JavaScript,BootStrap, MySQL, Data Structures and Algorithms.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+  - MERN Stack
+  - Algorithms
+  - 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+  - Open Source Projects
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Email - kaifkhan241299@gmail.com
+  - linkedin - [Mohd Kaif](https://www.linkedin.com/in/mohdkaif2001/)
