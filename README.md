@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ...
   - MERN Stack
   - Algorithms
-  - 
+    
 - 👯 I’m looking to collaborate on ...
   - Open Source Projects
 
