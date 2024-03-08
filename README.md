@@ -1,4 +1,4 @@
-### Hi there <https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif>, I am Mohd Kaif
+### Hi there <img src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohd Kaif
  - I am a final year student of Bachelor's of Technology.
  - Noida Institute of Engineering and Technology, Greater Noida.
  - Seeking Software engineer or Web developer role.
