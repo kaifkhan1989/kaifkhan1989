@@ -3,8 +3,13 @@
  - Noida Institute of Engineering and Technology, Greater Noida.
  - Seeking Software engineer or Web developer role.
 
+# 👀 I’m interested in ... 
+ - Software Development
+ - Web Development
+ - Full Stack Development.
+
 # 🔭 My skills are ...
-  -Java, Python, HTML5, CSS3, JavaScript,BootStrap, MySQL, Data Structures and Algorithms.
+  -Java, Python, HTML5, CSS3, JavaScript, BootStrap, MySQL, Data Structures and Algorithms.
 
 # 🌱 I’m currently learning ...
   - MERN Stack
